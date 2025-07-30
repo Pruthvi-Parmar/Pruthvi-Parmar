@@ -103,16 +103,8 @@ const pruthviraj = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pruthvi-parmar&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph&title_color=58a6ff" alt="GitHub Activity Graph">
 </div>
 
-### 🐍 Watch My Contributions Get Eaten!
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pruthvi-parmar/pruthvi-parmar/output/snake.svg" alt="Snake animation" />
-</div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pruthvi-parmar/pruthvi-parmar/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
-</div>
-
-### ⚡ Detailed Code Stats
+### ⚡ Code Stats
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pruthvi-parmar&theme=tokyonight" alt="Profile Details"/>
 </div>
@@ -220,8 +212,6 @@ const pruthviraj = {
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔥 Streak Stats
-![](https://visitcount.itsvg.in/api?id=pruthvi-parmar&icon=5&color=6)
 
 
 
@@ -241,7 +231,7 @@ const pruthviraj = {
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Fun+Fact%3A+I+can+type+100%2B+WPM!;I+debug+code+in+my+dreams+%F0%9F%92%AD;Coffee+%2B+Code+%3D+Magic+%E2%9C%A8;I+speak+fluent+Binary+%F0%9F%A4%96;Turning+ideas+into+reality+since+forever!&repeat=true" alt="Fun Facts" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Fun+Fact%3A+I+can+type+60%2B+WPM!;I+debug+code+in+my+dreams+%F0%9F%92%AD;Coffee+%2B+Code+%3D+Magic+%E2%9C%A8;I+speak+fluent+Binary+%F0%9F%A4%96;Turning+ideas+into+reality+since+forever!&repeat=true" alt="Fun Facts" />
 </div>
 
 </div>
