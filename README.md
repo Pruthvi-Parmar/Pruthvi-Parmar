@@ -89,7 +89,6 @@ const pruthviraj = {
 
 ---
 
-## 📊 Advanced GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pruthvi-parmar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Stats&icon_color=58a6ff&title_color=58a6ff"/>
